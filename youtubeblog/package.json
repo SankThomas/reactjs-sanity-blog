@@ -1,0 +1,29 @@
+{
+  "name": "youtubeblog",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)",
+  "main": "package.json",
+  "author": "Thomas Sankara <thomassankara74@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^2.13.1",
+    "@sanity/components": "^2.13.0",
+    "@sanity/core": "^2.13.1",
+    "@sanity/default-layout": "^2.13.1",
+    "@sanity/default-login": "^2.13.1",
+    "@sanity/desk-tool": "^2.13.1",
+    "@sanity/vision": "^2.13.1",
+    "prop-types": "^15.7",
+    "react": "^17.0",
+    "react-dom": "^17.0"
+  },
+  "devDependencies": {}
+}
